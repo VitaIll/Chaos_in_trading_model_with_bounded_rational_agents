@@ -1,0 +1,1 @@
+# Chaos_in_trading_model_with_bounded_rational_agents
